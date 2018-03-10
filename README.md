@@ -1,1 +1,6 @@
 # nlp_LogisticRegression_to_classfy_message
+
+1、手写代码实现逻辑回归垃圾短信分类
+2、给予sklearn实现逻辑回归垃圾短信分类
+
+注，参考木豆老师代码
